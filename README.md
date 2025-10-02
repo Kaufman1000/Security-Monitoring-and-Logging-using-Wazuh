@@ -2,7 +2,7 @@
 # Perform-Bruteforce-attack-with-kali-Linux-and-monitor-endpoint-with-Wazuh-agent
 
 ## Overview
-A small, controlled lab demonstrating how **Wazuh** can detect authentication brute-force activity against a **Windows 10** endpoint. The lab uses a dedicated attacker host (Kali Linux) to generate repeated failed logon attempts in a safe, isolated environment so students and analysts can learn detection, alerting, and log analysis workflows.
+A small, controlled lab demonstrating how **Wazuh** can detect authentication brute-force activity against a **Windows 10** endpoint. The lab uses a dedicated attacker host (Kali Linux) to execute a Brute-force attack on windows 10 system and detects the repeated failed logon attempts using Wazuh. The environment is intended for defensive training and analysis in an isolated lab. 
 
 ## Objectives
 - Demonstrate how to install and register a Wazuh agent on Windows 10.
