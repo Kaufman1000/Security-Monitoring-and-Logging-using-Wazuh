@@ -5,6 +5,7 @@ Security Monitoring and Logging using Wazuh.
 
 ## Overview
 A small, controlled lab demonstrating how **Wazuh** can detect authentication brute-force activity against a **Windows 10** endpoint. The lab uses a dedicated attacker host (Kali Linux) to generate repeated failed logon attempts in a safe, isolated environment so students and analysts can learn detection, alerting, and log analysis workflows.
+<img width="394" height="328" alt="Screenshot 2025-08-23 122051" src="https://github.com/user-attachments/assets/cf9de6dd-c3e8-4ce1-87e6-f0c513dbc87e" />
 
 
 ## Objectives
